@@ -85,8 +85,18 @@
 
   ![img](http://www.tup.tsinghua.edu.cn/upload/bigbookimg/056993-02.jpg)
 
+
+
+## 计算机视觉
+
++ ⑲计算机视觉-算法与应用（中文版），来自[这里](http://168.138.198.206/download/books/%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89%E7%AE%97%E6%B3%95%E4%B8%8E%E5%BA%94%E7%94%A8%E4%B8%AD%E6%96%87%E7%89%88.pdf)
++ ⑳Computer Vision:Algorithms and Applications，来自[这里](https://szeliski.org/Book/drafts/SzeliskiBook_20100903_draft.pdf)
++ ㉑数字图像处理-第三版-冈萨雷斯，来自[这里](https://github.com/Jonezhen/CSBook/raw/master/图像处理/数字图像处理_第三版_中_冈萨雷斯.pdf)
+
 ## 相关资源
 
 + https://github.com/dandanJing/computer/tree/master/books
 + https://github.com/RongleXie/java-books-collections
 + https://github.com/lunnersword/algorithm
++ https://github.com/edward-wq/books
++ https://github.com/Jonezhen/CSBook
