@@ -92,6 +92,8 @@
 + ⑲计算机视觉-算法与应用（中文版），来自[这里](http://168.138.198.206/download/books/%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89%E7%AE%97%E6%B3%95%E4%B8%8E%E5%BA%94%E7%94%A8%E4%B8%AD%E6%96%87%E7%89%88.pdf)
 + ⑳Computer Vision:Algorithms and Applications，来自[这里](https://szeliski.org/Book/drafts/SzeliskiBook_20100903_draft.pdf)
 + ㉑数字图像处理-第三版-冈萨雷斯，来自[这里](https://github.com/Jonezhen/CSBook/raw/master/图像处理/数字图像处理_第三版_中_冈萨雷斯.pdf)
++ ㉒深度学习与计算机视觉——算法原理、框架应用与代码实现
++ ㉓花书中文版，来自[这里](https://github.com/exacity/deeplearningbook-chinese)
 
 ## 🐳相关资源
 
@@ -100,3 +102,23 @@
 + https://github.com/lunnersword/algorithm
 + https://github.com/edward-wq/books
 + https://github.com/Jonezhen/CSBook
+
+# 🌈配套书籍代码
+
++ 深度学习之PyTorch实战计算机视觉配套代码：https://github.com/JaimeTang/book-code
++  深度学习与计算机视觉：https://github.com/frombeijingwithlove/dlcv_for_beginners
+
+
+
+# 🌈 优秀的github项目
+
+## 🥁学习资料
+
++ 花书的中文翻译：https://github.com/exacity/deeplearningbook-chinese
++ 完备的AI学习路线：https://github.com/JackBlogs/learningai/wiki/%E5%AE%8C%E5%A4%87%E7%9A%84AI%E5%AD%A6%E4%B9%A0%E8%B7%AF%E7%BA%BF
+  + 或者：https://github.com/JackBlogs/learningai
+
+## 🍯 著名实验室
+
++ https://github.com/orgs/saturn-lab
+
