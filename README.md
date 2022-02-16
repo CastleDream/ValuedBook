@@ -95,6 +95,36 @@
 + ㉒深度学习与计算机视觉——算法原理、框架应用与代码实现
 + ㉓花书中文版，来自[这里](https://github.com/exacity/deeplearningbook-chinese)
 
+
+
+## 🍫王道408考研书籍
+
+都是扫描版，所以文件很大，无法上传到github上去。
+
+来源在这里：
+
+感谢知乎博主[2022考研王道天勤PDF（数据结构、操作系统、计算机网络、计算机组成原理）](https://zhuanlan.zhihu.com/p/404966437)
+
+王道的
+
+> 链接：[https://pan.baidu.com/s/1ygAwUlv7xOnO0T6knAy6ag](https://link.zhihu.com/?target=https%3A//pan.baidu.com/s/1ygAwUlv7xOnO0T6knAy6ag)
+>
+> 提取码：dfuj
+
+天勤的
+
+> 链接：[https://pan.baidu.com/s/1dfHOq7GdcRdRFZe6ugsWhQ](https://link.zhihu.com/?target=https%3A//pan.baidu.com/s/1dfHOq7GdcRdRFZe6ugsWhQ)
+>
+> 提取码：bpns
+
+我已经保存到百度云盘了，如果失效，可以提个issue，我自己新po一个链接
+
+
+
+## 💫 计算机思想
+
++ ㉔  程序员的自我修养--链接、装载与库
+
 ## 🐳相关资源
 
 + https://github.com/dandanJing/computer/tree/master/books
@@ -102,6 +132,7 @@
 + https://github.com/lunnersword/algorithm
 + https://github.com/edward-wq/books
 + https://github.com/Jonezhen/CSBook
++ https://github.com/Jarvis03
 
 # 🌈配套书籍代码
 
@@ -117,8 +148,19 @@
 + 花书的中文翻译：https://github.com/exacity/deeplearningbook-chinese
 + 完备的AI学习路线：https://github.com/JackBlogs/learningai/wiki/%E5%AE%8C%E5%A4%87%E7%9A%84AI%E5%AD%A6%E4%B9%A0%E8%B7%AF%E7%BA%BF
   + 或者：https://github.com/JackBlogs/learningai
++ 计算机考研408资料整理：https://github.com/CodePanda66/CSPostgraduate-408
 
 ## 🍯 著名实验室
 
 + https://github.com/orgs/saturn-lab
+
+
+
+## 🐶 社畜救赎 
+
++ 程序员考公指南：https://github.com/coder2gwy/coder2gwy
++ 996ICU：https://github.com/996icu/996.ICU
++ 955.WLB：https://github.com/formulahendry/955.WLB
+
+
 
