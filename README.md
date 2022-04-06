@@ -125,6 +125,16 @@
 
 + ㉔  程序员的自我修养--链接、装载与库
 
+
+
+## 👍🏼 C/C++/Cmake相关
+
++ ㉕  C++程序设计（谭浩强），来自[这里](https://github.com/zouhuigang/book/issues/31)
++ ㉖  C程序设计（第四版）谭浩强，来自[这里](https://github.com/yuebaii/books/blob/master/C%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%EF%BC%88%E7%AC%AC%E5%9B%9B%E7%89%88%EF%BC%89%E8%B0%AD%E6%B5%A9%E5%BC%BA.pdf)
++ ㉗  C++Primer(第四版清晰电子版)，来自[这里](https://github.com/yuebaii/books/blob/master/C%2B%2BPrimer(%E7%AC%AC%E5%9B%9B%E7%89%88%E6%B8%85%E6%99%B0%E7%94%B5%E5%AD%90%E7%89%88).pdf)
++ ㉘  C Primer Plus 第6版 中文版，来自[这里](https://github.com/zouhuigang/book/issues/25)
++ C++教学资源：点击[这里](https://cugwhp.github.io/OOPCPP/)，来自中国地质大学
+
 ## 🐳相关资源
 
 + https://github.com/dandanJing/computer/tree/master/books
