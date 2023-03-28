@@ -41,13 +41,14 @@
 
   + 陶哲轩在UCLA的linear algebra讲义
 
-  
++ ㉝ 数值分析第五版.pdf，也不记得在哪里找的了
++ ㉟ 应用数理统计孙荣恒.pdf，也不记得在哪里找的了
 
 ## 📝概率论
 
 + ⑫ 茆诗松概率论pdf，来自[这里](https://yuxtech.club/2021/03/11/maoshisong/)
 
-
++ ㉜ 概率论与数理统计理工类第5版(吴赣昌).pdf，找不到来源了，但是不好找
 
 ## 🍭数据结构
 
@@ -89,12 +90,12 @@
 
 ## ☁️计算机视觉
 
-+ ⑲计算机视觉-算法与应用（中文版），来自[这里](http://168.138.198.206/download/books/%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89%E7%AE%97%E6%B3%95%E4%B8%8E%E5%BA%94%E7%94%A8%E4%B8%AD%E6%96%87%E7%89%88.pdf)
-+ ⑳Computer Vision:Algorithms and Applications，来自[这里](https://szeliski.org/Book/drafts/SzeliskiBook_20100903_draft.pdf)
-+ ㉑数字图像处理-第三版-冈萨雷斯，来自[这里](https://github.com/Jonezhen/CSBook/raw/master/图像处理/数字图像处理_第三版_中_冈萨雷斯.pdf)
-+ ㉒深度学习与计算机视觉——算法原理、框架应用与代码实现
-+ ㉓花书中文版，来自[这里](https://github.com/exacity/deeplearningbook-chinese)
-
++ ⑲ 计算机视觉-算法与应用（中文版），来自[这里](http://168.138.198.206/download/books/%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89%E7%AE%97%E6%B3%95%E4%B8%8E%E5%BA%94%E7%94%A8%E4%B8%AD%E6%96%87%E7%89%88.pdf)
++ ⑳ Computer Vision:Algorithms and Applications，来自[这里](https://szeliski.org/Book/drafts/SzeliskiBook_20100903_draft.pdf)
++ ㉑ 数字图像处理-第三版-冈萨雷斯，来自[这里](https://github.com/Jonezhen/CSBook/raw/master/图像处理/数字图像处理_第三版_中_冈萨雷斯.pdf)
++ ㉒ 深度学习与计算机视觉——算法原理、框架应用与代码实现
++ ㉓ 花书中文版，来自[这里](https://github.com/exacity/deeplearningbook-chinese)
++ ㉞ 数字图像处理的MATLAB实现  第2版（美）冈萨雷斯等著；阮秋琦译
 
 
 ## 🍫王道408考研书籍
