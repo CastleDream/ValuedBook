@@ -41,12 +41,11 @@
 ## 🗂数据库
 + *15.* 数据库系统概论-第5版_完整版（王珊，萨师煊）,来自
    链接: https://pan.baidu.com/s/1fxoT10rx2Hdz2iMcdaJ2CQ 提取码: swgc
-  > 感谢
-  >
-  > 作者：iDucky131
-  > 链接：https://www.jianshu.com/p/a97cfaf3b2f0
-  > 来源：简书
-  > 著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
+   
+  > 感谢作者：iDucky131
+  	链接：https://www.jianshu.com/p/a97cfaf3b2f0
+   来源：简书
+   著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
 
 ## 📝操作系统
 + *36.* 计算机操作系统(第3版)——汤子瀛，来自这个网页：[操作系统A 0529702B](https://lib-hfut.github.io/lib-hfut/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9FA_0529702B/)，对应的github地址是：[lib-hfut 贵校课程资料民间整理](https://github.com/lib-hfut/lib-hfut)
@@ -73,7 +72,7 @@
 + *21.* 数字图像处理-第三版-冈萨雷斯，来自[这里](https://github.com/Jonezhen/CSBook/raw/master/图像处理/数字图像处理_第三版_中_冈萨雷斯.pdf)
 + *22.* 深度学习与计算机视觉——算法原理、框架应用与代码实现
 + *23.* 花书中文版，来自[这里](https://github.com/exacity/deeplearningbook-chinese)
-+ *24.* 数字图像处理的MATLAB实现  第2版（美）冈萨雷斯等著；阮秋琦译
++ *34.* 数字图像处理的MATLAB实现  第2版（美）冈萨雷斯等著；阮秋琦译
 
 
 ## 🍫王道408考研书籍
