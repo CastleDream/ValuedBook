@@ -13,10 +13,12 @@
 
 ## 📜离散数学(图论)
 **离散数学**
+
 + *6.* 离散数学-杜忠复，点击[这里](http://chiataimakro.vicp.cc:8880/%E6%9D%82%E9%A1%B9/[%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6].%E6%9D%9C%E5%BF%A0%E5%A4%8D.%E6%96%87%E5%AD%97%E7%89%88.pdf)
 + *7.* 离散数学及其应用，点击[这里](http://home.ustc.edu.cn/~wy666/DiscreteMathematicsAndItsApplications_sixthedition.pdf)
 
 **图论**
+
 + *8.* 图论及其应用-孙惠泉（电子试读版），来自[这里](http://www.ecsponline.com/yz/B3A8832D6E3794DB2B2048974EBCCFC0A000.pdf)
 + *9.* 图论算法理论、实现及应用，来自[这里](https://github.com/ivito/cookbook/blob/master/%E7%AE%97%E6%B3%95/%E5%9B%BE%E8%AE%BA%E7%AE%97%E6%B3%95%E7%90%86%E8%AE%BA%E5%AE%9E%E7%8E%B0%E5%8F%8A%E5%BA%94%E7%94%A8.pdf)
 + *10.* 图论及其应用(第二版)(作者)徐俊明，来自[这里](https://github.com/hengfanz/franztao.File.io/blob/master/%E3%80%8A%E5%9B%BE%E8%AE%BA%E5%8F%8A%E5%85%B6%E5%BA%94%E7%94%A8(%E7%AC%AC%E4%BA%8C%E7%89%88)%E3%80%8B(%E4%BD%9C%E8%80%85)%E5%BE%90%E4%BF%8A%E6%98%8E%20%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E6%8A%80%E6%9C%AF%E5%A4%A7%E5%AD%A6%202004%E5%B9%B48%E6%9C%88%E7%AC%AC1%E7%89%88.pdf)
@@ -59,7 +61,7 @@
 + *17.* 算法（第四版）,来自[这里](https://www.bilibili.com/read/cv13003957)。链接：https://url03.ctfile.com/f/24333903-511477348-238a2b （访问密码：5831）
 
 ## 🦄计算机组成原理
-+ ⑱ 计算机组成原理-唐朔飞 ，来自[这里](https://fr.be1lib.org/book/5469110/601da3?dsource=recommend)
++ *18.* 计算机组成原理-唐朔飞 ，来自[这里](https://fr.be1lib.org/book/5469110/601da3?dsource=recommend)
 
 ## 🍄数字电路与逻辑设计
 + 没有找到pdf资源，但是找到了出版社的电子资源（课件），链接位于[这里](http://www.tup.tsinghua.edu.cn/booksCenter/book_05699302.html)
@@ -70,9 +72,15 @@
 + *19.* 计算机视觉-算法与应用（中文版），来自[这里](http://168.138.198.206/download/books/%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89%E7%AE%97%E6%B3%95%E4%B8%8E%E5%BA%94%E7%94%A8%E4%B8%AD%E6%96%87%E7%89%88.pdf)
 + *20.* Computer Vision:Algorithms and Applications，来自[这里](https://szeliski.org/Book/drafts/SzeliskiBook_20100903_draft.pdf)
 + *21.* 数字图像处理-第三版-冈萨雷斯，来自[这里](https://github.com/Jonezhen/CSBook/raw/master/图像处理/数字图像处理_第三版_中_冈萨雷斯.pdf)
++ *40.* 数字图像处理-第四版-冈萨雷斯，来自[这里](https://www.123pan.com/s/FCm9-2KGAv)，文件大于100MB，没有上传，下面是百度云链接：
+	
+	> 链接：https://pan.baidu.com/s/1I_PsEQp45spRTAHpojDAxQ?pwd=yyds 
+	>
+	> 提取码：yyds 
 + *22.* 深度学习与计算机视觉——算法原理、框架应用与代码实现
 + *23.* 花书中文版，来自[这里](https://github.com/exacity/deeplearningbook-chinese)
 + *34.* 数字图像处理的MATLAB实现  第2版（美）冈萨雷斯等著；阮秋琦译
+
 
 
 ## 🍫王道408考研书籍
@@ -81,12 +89,12 @@
 来源在这里： 感谢知乎博主-[2022考研王道天勤PDF（数据结构、操作系统、计算机网络、计算机组成原理）](https://zhuanlan.zhihu.com/p/404966437)
 
 王道的
-> 链接：[https://pan.baidu.com/s/1ygAwUlv7xOnO0T6knAy6ag](https://link.zhihu.com/?target=https%3A//pan.baidu.com/s/1ygAwUlv7xOnO0T6knAy6ag)
+> 链接：<https://pan.baidu.com/s/1ygAwUlv7xOnO0T6knAy6ag>
 >
 > 提取码：dfuj
 
 天勤的
-> 链接：[https://pan.baidu.com/s/1dfHOq7GdcRdRFZe6ugsWhQ](https://link.zhihu.com/?target=https%3A//pan.baidu.com/s/1dfHOq7GdcRdRFZe6ugsWhQ)
+> 链接：<https://pan.baidu.com/s/1dfHOq7GdcRdRFZe6ugsWhQ>
 >
 > 提取码：bpns
 
