@@ -84,7 +84,7 @@
 + *42.* 计算机图形学-第4版，来自这个博客：[计算机图形学（第四版） PDF 中文版 ](https://www.cnblogs.com/kohler21/p/17032213.html#%E4%B8%8B%E8%BD%BD%E5%9C%B0%E5%9D%80)，文件超过100MB，没有上传。
 + *43.* 《计算机图形学及实用编程技术》.李春雨.扫描版，来自这个[github地址](https://github.com/WaterCube001/books-4/blob/master/%E3%80%8A%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9B%BE%E5%BD%A2%E5%AD%A6%E5%8F%8A%E5%AE%9E%E7%94%A8%E7%BC%96%E7%A8%8B%E6%8A%80%E6%9C%AF%E3%80%8B.%E6%9D%8E%E6%98%A5%E9%9B%A8.%E6%89%AB%E6%8F%8F%E7%89%88.pdf)
 + *44.* 计算机图形学原理及算法教程(Visual.Cpp版)第二版，来自脚本之家，点击[这里](https://www.jb51.net/books/209928.html)，不需要提取码，直接下载就可以
-
++ *45.* 计算机图形学原理及实践：C语言描述原书第2版，来自这个github项目-[apachecn/it-ebooks-archive](https://github.com/apachecn/it-ebooks-archive)，对应的网页是：[计算机电子书](https://it-ebooks.apachecn.org/#/docs/huazhang-cs-dockerhub)，按照说明使用npm安装对应的包，确实就有电子书，神奇。。。mac如果遇到npm安装问题，考虑看看这个[Trouble install node.js with homebrew](https://stackoverflow.com/questions/31374143/trouble-install-node-js-with-homebrew)
 
 
 ## 🍄王道408考研书籍
