@@ -68,24 +68,6 @@
 
   ![img](http://www.tup.tsinghua.edu.cn/upload/bigbookimg/056993-02.jpg)
 
-## ☁️计算机视觉
-+ *19.* 计算机视觉-算法与应用（中文版），来自[这里](http://168.138.198.206/download/books/%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89%E7%AE%97%E6%B3%95%E4%B8%8E%E5%BA%94%E7%94%A8%E4%B8%AD%E6%96%87%E7%89%88.pdf)
-+ *20.* Computer Vision:Algorithms and Applications，来自[这里](https://szeliski.org/Book/drafts/SzeliskiBook_20100903_draft.pdf)
-+ *21.* 数字图像处理-第三版-冈萨雷斯，来自[这里](https://github.com/Jonezhen/CSBook/raw/master/图像处理/数字图像处理_第三版_中_冈萨雷斯.pdf)
-+ *40.* 数字图像处理-第四版-冈萨雷斯，来自[这里](https://www.123pan.com/s/FCm9-2KGAv)，文件大于100MB，没有上传，下面是百度云链接：
-	
-	> 链接：https://pan.baidu.com/s/1I_PsEQp45spRTAHpojDAxQ?pwd=yyds 
-	>
-	> 提取码：yyds 
-+ *22.* 深度学习与计算机视觉——算法原理、框架应用与代码实现
-+ *23.* 花书中文版，来自[这里](https://github.com/exacity/deeplearningbook-chinese)
-+ *34.* 数字图像处理的MATLAB实现  第2版（美）冈萨雷斯等著；阮秋琦译
-+ *41.* 计算机图形学-第三版，来自这个[github地址](https://github.com/WaterCube001/books-4/blob/master/%E3%80%8A%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9B%BE%E5%BD%A2%E5%AD%A6%E3%80%8B(%E7%AC%AC%E4%B8%89%E7%89%88).pdf)，文件超过100MB，没有上传。
-+ *42.* 计算机图形学-第4版，来自这个博客：[计算机图形学（第四版） PDF 中文版 ](https://www.cnblogs.com/kohler21/p/17032213.html#%E4%B8%8B%E8%BD%BD%E5%9C%B0%E5%9D%80)，文件超过100MB，没有上传。
-+ *43.* 《计算机图形学及实用编程技术》.李春雨.扫描版，来自这个[github地址](https://github.com/WaterCube001/books-4/blob/master/%E3%80%8A%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9B%BE%E5%BD%A2%E5%AD%A6%E5%8F%8A%E5%AE%9E%E7%94%A8%E7%BC%96%E7%A8%8B%E6%8A%80%E6%9C%AF%E3%80%8B.%E6%9D%8E%E6%98%A5%E9%9B%A8.%E6%89%AB%E6%8F%8F%E7%89%88.pdf)
-+ *44.* 计算机图形学原理及算法教程(Visual.Cpp版)第二版，来自脚本之家，点击[这里](https://www.jb51.net/books/209928.html)，不需要提取码，直接下载就可以
-+ *45.* 计算机图形学原理及实践：C语言描述原书第2版，来自这个github项目-[apachecn/it-ebooks-archive](https://github.com/apachecn/it-ebooks-archive)，对应的网页是：[计算机电子书](https://it-ebooks.apachecn.org/#/docs/huazhang-cs-dockerhub)，按照说明使用npm安装对应的包，确实就有电子书，神奇。。。mac如果遇到npm安装问题，考虑看看这个[Trouble install node.js with homebrew](https://stackoverflow.com/questions/31374143/trouble-install-node-js-with-homebrew)
-+ *46.*《Real-Time Rendering 3rd》 提炼总结，来自毛星云（浅墨）的github项目，[链接](https://github.com/QianMo/Real-Time-Rendering-3rd-CN-Summary-Ebook)
 
 ## 🍄王道408考研书籍
 都是扫描版，所以文件很大，无法上传到github上去。
@@ -120,6 +102,29 @@
 
 ## 🍄医学ITK/VTK相关
 + *29.* 三维图像编程实验，来自[这里](http://www.wenqujingdian.com/Public/editor/attached/file/20180326/20180326135748_24581.pdf)
+
+# 🌈深度学习和计算机视觉
+## ☁️深度学习
++ *22.* 深度学习与计算机视觉——算法原理、框架应用与代码实现
++ *23.* 花书中文版，来自[这里](https://github.com/exacity/deeplearningbook-chinese)
++ *47.* 神经网络与深度学习，来自复旦大学邱锡鹏老师，[github链接](https://nndl.github.io/nndl-book.pdf)
+
+## ☁️计算机视觉
++ *19.* 计算机视觉-算法与应用（中文版），来自[这里](http://168.138.198.206/download/books/%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89%E7%AE%97%E6%B3%95%E4%B8%8E%E5%BA%94%E7%94%A8%E4%B8%AD%E6%96%87%E7%89%88.pdf)
++ *20.* Computer Vision:Algorithms and Applications，来自[这里](https://szeliski.org/Book/drafts/SzeliskiBook_20100903_draft.pdf)
++ *21.* 数字图像处理-第三版-冈萨雷斯，来自[这里](https://github.com/Jonezhen/CSBook/raw/master/图像处理/数字图像处理_第三版_中_冈萨雷斯.pdf)
++ *40.* 数字图像处理-第四版-冈萨雷斯，来自[这里](https://www.123pan.com/s/FCm9-2KGAv)，文件大于100MB，没有上传，下面是百度云链接：
+	
+	> 链接：https://pan.baidu.com/s/1I_PsEQp45spRTAHpojDAxQ?pwd=yyds 
+	>
+	> 提取码：yyds 
++ *34.* 数字图像处理的MATLAB实现  第2版（美）冈萨雷斯等著；阮秋琦译
++ *41.* 计算机图形学-第三版，来自这个[github地址](https://github.com/WaterCube001/books-4/blob/master/%E3%80%8A%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9B%BE%E5%BD%A2%E5%AD%A6%E3%80%8B(%E7%AC%AC%E4%B8%89%E7%89%88).pdf)，文件超过100MB，没有上传。
++ *42.* 计算机图形学-第4版，来自这个博客：[计算机图形学（第四版） PDF 中文版 ](https://www.cnblogs.com/kohler21/p/17032213.html#%E4%B8%8B%E8%BD%BD%E5%9C%B0%E5%9D%80)，文件超过100MB，没有上传。
++ *43.* 《计算机图形学及实用编程技术》.李春雨.扫描版，来自这个[github地址](https://github.com/WaterCube001/books-4/blob/master/%E3%80%8A%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9B%BE%E5%BD%A2%E5%AD%A6%E5%8F%8A%E5%AE%9E%E7%94%A8%E7%BC%96%E7%A8%8B%E6%8A%80%E6%9C%AF%E3%80%8B.%E6%9D%8E%E6%98%A5%E9%9B%A8.%E6%89%AB%E6%8F%8F%E7%89%88.pdf)
++ *44.* 计算机图形学原理及算法教程(Visual.Cpp版)第二版，来自脚本之家，点击[这里](https://www.jb51.net/books/209928.html)，不需要提取码，直接下载就可以
++ *45.* 计算机图形学原理及实践：C语言描述原书第2版，来自这个github项目-[apachecn/it-ebooks-archive](https://github.com/apachecn/it-ebooks-archive)，对应的网页是：[计算机电子书](https://it-ebooks.apachecn.org/#/docs/huazhang-cs-dockerhub)，按照说明使用npm安装对应的包，确实就有电子书，神奇。。。mac如果遇到npm安装问题，考虑看看这个[Trouble install node.js with homebrew](https://stackoverflow.com/questions/31374143/trouble-install-node-js-with-homebrew)
++ *46.*《Real-Time Rendering 3rd》 提炼总结，来自毛星云（浅墨）的github项目，[链接](https://github.com/QianMo/Real-Time-Rendering-3rd-CN-Summary-Ebook)
 
 # 🌈 优秀的github项目
 ## 🐳学习资料
