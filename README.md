@@ -108,6 +108,7 @@
 + *22.* 深度学习与计算机视觉——算法原理、框架应用与代码实现
 + *23.* 花书中文版，来自[这里](https://github.com/exacity/deeplearningbook-chinese)
 + *47.* 神经网络与深度学习，来自复旦大学邱锡鹏老师，[github链接](https://nndl.github.io/nndl-book.pdf)
++ *48.* d2l-zh-pytorch，来自李沐老师，[动手学深度学习](https://zh-v2.d2l.ai/d2l-zh-pytorch.pdf)
 
 ## ☁️计算机视觉
 + *19.* 计算机视觉-算法与应用（中文版），来自[这里](http://168.138.198.206/download/books/%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89%E7%AE%97%E6%B3%95%E4%B8%8E%E5%BA%94%E7%94%A8%E4%B8%AD%E6%96%87%E7%89%88.pdf)
