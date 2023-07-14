@@ -109,6 +109,7 @@
 + *23.* 花书中文版，来自[这里](https://github.com/exacity/deeplearningbook-chinese)
 + *47.* 神经网络与深度学习，来自复旦大学邱锡鹏老师，[github链接](https://nndl.github.io/nndl-book.pdf)
 + *48.* d2l-zh-pytorch，来自李沐老师，[动手学深度学习](https://zh-v2.d2l.ai/d2l-zh-pytorch.pdf)
++ *49.* 《深度学习入门：基于Python的理论与实现》高清中文版，鱼书，来自[这里](https://github.com/chapin666/books/blob/master/ai/%E3%80%8A%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%85%A5%E9%97%A8%EF%BC%9A%E5%9F%BA%E4%BA%8EPython%E7%9A%84%E7%90%86%E8%AE%BA%E4%B8%8E%E5%AE%9E%E7%8E%B0%E3%80%8B%E9%AB%98%E6%B8%85%E4%B8%AD%E6%96%87%E7%89%88.pdf)
 
 ## ☁️计算机视觉
 + *19.* 计算机视觉-算法与应用（中文版），来自[这里](http://168.138.198.206/download/books/%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89%E7%AE%97%E6%B3%95%E4%B8%8E%E5%BA%94%E7%94%A8%E4%B8%AD%E6%96%87%E7%89%88.pdf)
@@ -126,6 +127,7 @@
 + *44.* 计算机图形学原理及算法教程(Visual.Cpp版)第二版，来自脚本之家，点击[这里](https://www.jb51.net/books/209928.html)，不需要提取码，直接下载就可以
 + *45.* 计算机图形学原理及实践：C语言描述原书第2版，来自这个github项目-[apachecn/it-ebooks-archive](https://github.com/apachecn/it-ebooks-archive)，对应的网页是：[计算机电子书](https://it-ebooks.apachecn.org/#/docs/huazhang-cs-dockerhub)，按照说明使用npm安装对应的包，确实就有电子书，神奇。。。mac如果遇到npm安装问题，考虑看看这个[Trouble install node.js with homebrew](https://stackoverflow.com/questions/31374143/trouble-install-node-js-with-homebrew)
 + *46.*《Real-Time Rendering 3rd》 提炼总结，来自毛星云（浅墨）的github项目，[链接](https://github.com/QianMo/Real-Time-Rendering-3rd-CN-Summary-Ebook)
++ *50.* 欧姆社学习漫画-数学·漫画傅里叶解析，来自[这里](https://github.com/chapin666/books/blob/master/ai/%E6%AC%A7%E5%A7%86%E7%A4%BE%E5%AD%A6%E4%B9%A0%E6%BC%AB%E7%94%BB-%E6%95%B0%E5%AD%A6%C2%B7%E6%BC%AB%E7%94%BB%E5%82%85%E9%87%8C%E5%8F%B6%E8%A7%A3%E6%9E%90.pdf)
 
 # 🌈 优秀的github项目
 ## 🐳学习资料
