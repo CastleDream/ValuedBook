@@ -104,12 +104,13 @@
 + *29.* 三维图像编程实验，来自[这里](http://www.wenqujingdian.com/Public/editor/attached/file/20180326/20180326135748_24581.pdf)
 
 # 🌈深度学习和计算机视觉
-## ☁️深度学习
+## ☁️深度学习和机器学习
 + *22.* 深度学习与计算机视觉——算法原理、框架应用与代码实现
 + *23.* 花书中文版，来自[这里](https://github.com/exacity/deeplearningbook-chinese)
 + *47.* 神经网络与深度学习，来自复旦大学邱锡鹏老师，[github链接](https://nndl.github.io/nndl-book.pdf)
 + *48.* d2l-zh-pytorch，来自李沐老师，[动手学深度学习](https://zh-v2.d2l.ai/d2l-zh-pytorch.pdf)
 + *49.* 《深度学习入门：基于Python的理论与实现》高清中文版，鱼书，来自[这里](https://github.com/chapin666/books/blob/master/ai/%E3%80%8A%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%85%A5%E9%97%A8%EF%BC%9A%E5%9F%BA%E4%BA%8EPython%E7%9A%84%E7%90%86%E8%AE%BA%E4%B8%8E%E5%AE%9E%E7%8E%B0%E3%80%8B%E9%AB%98%E6%B8%85%E4%B8%AD%E6%96%87%E7%89%88.pdf)
++ *51.* 李航-《统计机器学习》(statistical-learning-method)，来自[这里](https://vincentqin.gitee.io/blogresource-2/cv-books/statistical-learning-method.pdf)
 
 ## ☁️计算机视觉
 + *19.* 计算机视觉-算法与应用（中文版），来自[这里](http://168.138.198.206/download/books/%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89%E7%AE%97%E6%B3%95%E4%B8%8E%E5%BA%94%E7%94%A8%E4%B8%AD%E6%96%87%E7%89%88.pdf)
