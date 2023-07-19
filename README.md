@@ -32,9 +32,12 @@
 + *33.* 数值分析第五版.pdf，也不记得在哪里找的了
 + *35.* 应用数理统计孙荣恒.pdf，也不记得在哪里找的了
 
-## 🍄概率论
+## 🍄概率论（信息论）
 + *12.* 茆诗松概率论pdf，来自[这里](https://yuxtech.club/2021/03/11/maoshisong/)
 + *32.* 概率论与数理统计理工类第5版(吴赣昌).pdf，找不到来源了，但是不好找
++ *53.* 信息论基础与编码, 来自[这里](http://www.wenqujingdian.com/Public/editor/attached/file/20180328/20180328081134_51602.pdf)
++ *54.*《信息论基础》（原书第2版）（美）Thomas M. Cover， Joy A. Thomas 著，阮吉寿，张华译——机械工业出版社，来自[这里](https://faculty.ustc.edu.cn/flowice/zh_CN/zdylm/679092)， *54_2*. 熵相对熵和互信息(PPT)是相同来源
++ *55.* 信息论与编码理论，来自[这里](https://github.com/yuyichao/cs-doc/blob/master/Communication/Information_Theory/%E4%BF%A1%E6%81%AF%E8%AE%BA%E4%B8%8E%E7%BC%96%E7%A0%81%E7%90%86%E8%AE%BA.pdf)
 
 ## 🍄数据结构
 + *13.* 数据结构教程（第5版）——李春葆，来自[这里](https://fr.be1lib.org/book/16889574/25bef9)
@@ -55,10 +58,14 @@
 + *38.* 操作系统教程（第3版）——孙钟秀，来自[这里](http://www.huhst.edu.cn/__local/B/03/85/3C9EA5E8903526CAB5D1318E995_F00C7471_2B6931.pdf)
 + *39.* 图解系统-小林coding-v1.0，这里放的是epub格式，可以去公众号下载，有pdf版本，“微信搜索「小林coding」”，在公众号里发送”系统“即可。
 
+## 🍄计算机网络
++ *52.* 计算机网络（第7版）谢希仁，来自[这里](https://www.elias.ltd/usr/local/etc/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%EF%BC%88%E7%AC%AC7%E7%89%88%EF%BC%89%E8%B0%A2%E5%B8%8C%E4%BB%81.pdf)
 
 ## 🍄算法
-+ *16.* 算法 第4版.pdf（86.1MB），来自[这里](https://github.com/learsea/algorithm/blob/master/算法 第4版.pdf)
-+ *17.* 算法（第四版）,来自[这里](https://www.bilibili.com/read/cv13003957)。链接：https://url03.ctfile.com/f/24333903-511477348-238a2b （访问密码：5831）
++ *16.* 算法 第4版.pdf（86.1MB），来自[这里](https://github.com/learsea/algorithm/blob/master)
++ *17.* 算法（第四版）,来自[这里](https://www.bilibili.com/read/cv13003957)。
+    + 链接：https://url03.ctfile.com/f/24333903-511477348-238a2b 
+    + 访问密码：5831
 
 ## 🍄计算机组成原理
 + *18.* 计算机组成原理-唐朔飞 ，来自[这里](https://fr.be1lib.org/book/5469110/601da3?dsource=recommend)
