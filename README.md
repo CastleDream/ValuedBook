@@ -70,6 +70,11 @@
 ## 🍄计算机组成原理
 + *18.* 计算机组成原理-唐朔飞 ，来自[这里](https://fr.be1lib.org/book/5469110/601da3?dsource=recommend)
 
+## 🍄计算机系统结构
++ *56.* 计算机系统结构，清华大学，郑纬民，来自[这里](https://eol.sicau.edu.cn/TransferFile?file=MzA0MzUyXDEyNzcxXzMwMDA2OTA1OF8yMDEzMTIzMDEzMjE0NV8yOTE2MC5wZGY1&name=vMbL47v6z7XNs73hubkucGRm0)
++ *57.* 计算机系统结构（第2版）.rar，没有pdf，但是有ppt课件，其实我最想要的是[这本](http://www.tup.tsinghua.edu.cn/bookscenter/book_00290004.html#)，这本是我本科上课用的书，但是找不着
++ IEEE754单精度浮点数，[IEEE754浮点数标准](https://blog.csdn.net/MaTF_/article/details/124842807)
+
 ## 🍄数字电路与逻辑设计
 + 没有找到pdf资源，但是找到了出版社的电子资源（课件），链接位于[这里](http://www.tup.tsinghua.edu.cn/booksCenter/book_05699302.html)
 
@@ -114,10 +119,12 @@
 ## ☁️深度学习和机器学习
 + *22.* 深度学习与计算机视觉——算法原理、框架应用与代码实现
 + *23.* 花书中文版，来自[这里](https://github.com/exacity/deeplearningbook-chinese)
+    + 原版英语在线电子版：<https://www.deeplearningbook.org/>
 + *47.* 神经网络与深度学习，来自复旦大学邱锡鹏老师，[github链接](https://nndl.github.io/nndl-book.pdf)
 + *48.* d2l-zh-pytorch，来自李沐老师，[动手学深度学习](https://zh-v2.d2l.ai/d2l-zh-pytorch.pdf)
 + *49.* 《深度学习入门：基于Python的理论与实现》高清中文版，鱼书，来自[这里](https://github.com/chapin666/books/blob/master/ai/%E3%80%8A%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%85%A5%E9%97%A8%EF%BC%9A%E5%9F%BA%E4%BA%8EPython%E7%9A%84%E7%90%86%E8%AE%BA%E4%B8%8E%E5%AE%9E%E7%8E%B0%E3%80%8B%E9%AB%98%E6%B8%85%E4%B8%AD%E6%96%87%E7%89%88.pdf)
 + *51.* 李航-《统计机器学习》(statistical-learning-method)，来自[这里](https://vincentqin.gitee.io/blogresource-2/cv-books/statistical-learning-method.pdf)
++ *58.* Python 深度学习
 
 ## ☁️计算机视觉
 + *19.* 计算机视觉-算法与应用（中文版），来自[这里](http://168.138.198.206/download/books/%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89%E7%AE%97%E6%B3%95%E4%B8%8E%E5%BA%94%E7%94%A8%E4%B8%AD%E6%96%87%E7%89%88.pdf)
