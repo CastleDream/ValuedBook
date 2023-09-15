@@ -115,6 +115,9 @@
 ## 🍄医学ITK/VTK相关
 + *29.* 三维图像编程实验，来自[这里](http://www.wenqujingdian.com/Public/editor/attached/file/20180326/20180326135748_24581.pdf)
 
+## 语音
++ *62*. 解析深度学习_语音识别实践,来自[这里](https://github.com/gemengtju/Tutorial_Speech_Signal_Processing/blob/master/book/%E4%BF%9E%E6%A0%8B%E9%82%93%E5%8A%9B%20%E8%A7%A3%E6%9E%90%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%20%E8%AF%AD%E9%9F%B3%E8%AF%86%E5%88%AB%E5%AE%9E%E8%B7%B5.pdf)
+    + 也有另一个扫描版的，但是100多MB，但是比上面这个清晰，在[这里](https://www.cnblogs.com/qniguoym/p/8532256.html)
 # 🌈深度学习和计算机视觉
 ## ☁️深度学习和机器学习
 + *22.* 深度学习与计算机视觉——算法原理、框架应用与代码实现
@@ -125,7 +128,12 @@
 + *49.* 《深度学习入门：基于Python的理论与实现》高清中文版，鱼书，来自[这里](https://github.com/chapin666/books/blob/master/ai/%E3%80%8A%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%85%A5%E9%97%A8%EF%BC%9A%E5%9F%BA%E4%BA%8EPython%E7%9A%84%E7%90%86%E8%AE%BA%E4%B8%8E%E5%AE%9E%E7%8E%B0%E3%80%8B%E9%AB%98%E6%B8%85%E4%B8%AD%E6%96%87%E7%89%88.pdf)
 + *51.* 李航-《统计机器学习》(statistical-learning-method)，来自[这里](https://vincentqin.gitee.io/blogresource-2/cv-books/statistical-learning-method.pdf)
 + *58.* Python 深度学习
-
++ *59.* Make Your Own Neural Network 2016.epub，来自[这里](https://github.com/linux08/machine-learning-books/blob/master/Make%20Your%20Own%20Neural%20Network%202016.epub)，侧栏目录可以看到pdf版本的，这个是英文版本。
+    + 对应的github代码地址：[makeyourownneuralnetwork/makeyourownneuralnetwork](https://github.com/makeyourownneuralnetwork/makeyourownneuralnetwork)
+    + 2016年出的书，放在2023年来看，6年前，算老了
+    + *60.* Python神经网络编程高清版，这是59对应的中文版本，来自[这里](https://ai.renyuzhuo.cn/books/MakeYourOwnNeuralNetwork/)，或者[github链接](https://github.com/Kung-Fu-Master/Python/blob/master/Python%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B%E9%AB%98%E6%B8%85%E7%89%88.pdf)
++ *61.* The Little Book of Deep Learning，页面是手机阅读格式，来自[这里](https://fleuret.org/public/lbdl.pdf)
+    + 找到这个是因为这个老师的课程：<https://fleuret.org/dlc/>
 ## ☁️计算机视觉
 + *19.* 计算机视觉-算法与应用（中文版），来自[这里](http://168.138.198.206/download/books/%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89%E7%AE%97%E6%B3%95%E4%B8%8E%E5%BA%94%E7%94%A8%E4%B8%AD%E6%96%87%E7%89%88.pdf)
 + *20.* Computer Vision:Algorithms and Applications，来自[这里](https://szeliski.org/Book/drafts/SzeliskiBook_20100903_draft.pdf)
@@ -143,6 +151,15 @@
 + *45.* 计算机图形学原理及实践：C语言描述原书第2版，来自这个github项目-[apachecn/it-ebooks-archive](https://github.com/apachecn/it-ebooks-archive)，对应的网页是：[计算机电子书](https://it-ebooks.apachecn.org/#/docs/huazhang-cs-dockerhub)，按照说明使用npm安装对应的包，确实就有电子书，神奇。。。mac如果遇到npm安装问题，考虑看看这个[Trouble install node.js with homebrew](https://stackoverflow.com/questions/31374143/trouble-install-node-js-with-homebrew)
 + *46.*《Real-Time Rendering 3rd》 提炼总结，来自毛星云（浅墨）的github项目，[链接](https://github.com/QianMo/Real-Time-Rendering-3rd-CN-Summary-Ebook)
 + *50.* 欧姆社学习漫画-数学·漫画傅里叶解析，来自[这里](https://github.com/chapin666/books/blob/master/ai/%E6%AC%A7%E5%A7%86%E7%A4%BE%E5%AD%A6%E4%B9%A0%E6%BC%AB%E7%94%BB-%E6%95%B0%E5%AD%A6%C2%B7%E6%BC%AB%E7%94%BB%E5%82%85%E9%87%8C%E5%8F%B6%E8%A7%A3%E6%9E%90.pdf)
++ *63.* OpenCV编程案例详解 (李立宗) (Z-Library)
++ *64_1.* OpenCV-4计算机视觉项目实战（原书第2版）-_智能系统与技术丛书_-_大卫·米兰·埃斯克里瓦_-_Z-Library_
+    + *64_2.* OpenCV实例精解 OpenCV By Example (普拉蒂克·乔希 大卫·米兰·埃斯克里瓦 维尼修斯·戈多伊) (Z-Library)
+    + 这两本写的人一样的，只是一个pdf格式，一个epub格式，内容都差不多
++ *65.* OpenCV3编程入门 (毛星云) (Z-Library)
+    + 很可惜的一个大神写的，内容是这几本opencv里最丰富的，纪念大神
+    + [《OpenCV3编程入门》书本配套源代码](https://github.com/QianMo/OpenCV3-Intro-Book-Src)
++ *66.* OpenCV算法精解：基于Python与C++ (张平) (Z-Library)
+    
 
 # 🌈 优秀的github项目
 ## 🐳学习资料
