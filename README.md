@@ -114,6 +114,10 @@
 
 ## 🍄医学ITK/VTK相关
 + *29.* 三维图像编程实验，来自[这里](http://www.wenqujingdian.com/Public/editor/attached/file/20180326/20180326135748_24581.pdf)
++ *67.* 医学图像编程技术 (周振环, 伍云智, 赵明) (Z-Library)，来自[这里](https://zlibrary-asia.se/book/21272673/b00ecf?dsource=recommend)
+  + 68. 周振环_医学图像分割与配准上册
+  + 69. 周振环_医学图像分割与配准上册
+  + 都是同一个人写的，内容差不多
 
 ## 语音
 + *62*. 解析深度学习_语音识别实践,来自[这里](https://github.com/gemengtju/Tutorial_Speech_Signal_Processing/blob/master/book/%E4%BF%9E%E6%A0%8B%E9%82%93%E5%8A%9B%20%E8%A7%A3%E6%9E%90%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%20%E8%AF%AD%E9%9F%B3%E8%AF%86%E5%88%AB%E5%AE%9E%E8%B7%B5.pdf)
@@ -160,6 +164,10 @@
     + [《OpenCV3编程入门》书本配套源代码](https://github.com/QianMo/OpenCV3-Intro-Book-Src)
 + *66.* OpenCV算法精解：基于Python与C++ (张平) (Z-Library)
     
+## ☁️医学影像重建
++ *70.* 3D Image Reconstruction for CT and PET A Practical Guide with Python (Daniele Panetta, Niccolo Camarlinghi) (Z-Library)，来自[这里](https://zlibrary-asia.se/book/11053927/a01032)
++ *71.* 医学图像重建入门 (曾更生)，来自[这里](https://zlibrary-asia.se/book/11448922/0997df)
++ *72.* Advances in Photometric 3D-Reconstruction (Jean-Denis Durou, Maurizio Falcone, Yvain Quéau etc.) (Z-Library)，来自[这里](https://zlibrary-asia.se/book/11251491/84e898?dsource=recommend)
 
 # 🌈 优秀的github项目
 ## 🐳学习资料
