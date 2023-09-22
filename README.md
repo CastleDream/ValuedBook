@@ -78,9 +78,6 @@
 ## 🍄数字电路与逻辑设计
 + 没有找到pdf资源，但是找到了出版社的电子资源（课件），链接位于[这里](http://www.tup.tsinghua.edu.cn/booksCenter/book_05699302.html)
 
-  ![img](http://www.tup.tsinghua.edu.cn/upload/bigbookimg/056993-02.jpg)
-
-
 ## 🍄王道408考研书籍
 都是扫描版，所以文件很大，无法上传到github上去。
 
@@ -138,6 +135,9 @@
     + *60.* Python神经网络编程高清版，这是59对应的中文版本，来自[这里](https://ai.renyuzhuo.cn/books/MakeYourOwnNeuralNetwork/)，或者[github链接](https://github.com/Kung-Fu-Master/Python/blob/master/Python%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B%E9%AB%98%E6%B8%85%E7%89%88.pdf)
 + *61.* The Little Book of Deep Learning，页面是手机阅读格式，来自[这里](https://fleuret.org/public/lbdl.pdf)
     + 找到这个是因为这个老师的课程：<https://fleuret.org/dlc/>
++ *73.* 模式识别-模式识别与机器学习（第四版） (张学工 汪小我) (Z-Library)，来自[这里](https://zlibrary-asia.se/book/25655112/61791f)
++ *74.* 模式识别【第三版】，来自[这里](https://github.com/chengguobiao/my-collect-pdf-books/blob/master/%E6%A8%A1%E5%BC%8F%E8%AF%86%E5%88%AB%E3%80%90%E7%AC%AC%E4%B8%89%E7%89%88%E3%80%91.pdf)
+
 ## ☁️计算机视觉
 + *19.* 计算机视觉-算法与应用（中文版），来自[这里](http://168.138.198.206/download/books/%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89%E7%AE%97%E6%B3%95%E4%B8%8E%E5%BA%94%E7%94%A8%E4%B8%AD%E6%96%87%E7%89%88.pdf)
 + *20.* Computer Vision:Algorithms and Applications，来自[这里](https://szeliski.org/Book/drafts/SzeliskiBook_20100903_draft.pdf)
@@ -167,7 +167,9 @@
 ## ☁️医学影像重建
 + *70.* 3D Image Reconstruction for CT and PET A Practical Guide with Python (Daniele Panetta, Niccolo Camarlinghi) (Z-Library)，来自[这里](https://zlibrary-asia.se/book/11053927/a01032)
 + *71.* 医学图像重建入门 (曾更生)，来自[这里](https://zlibrary-asia.se/book/11448922/0997df)
+    + *76.* Medical Image Reconstruction From Analytical and Iterative Methods to Machine Learning (Gengsheng Lawrence Zeng) (Z-Library)，新的英语版本，可以对照着看，来自[这里](https://zlibrary-asia.se/book/25392777/d1c6c5)
 + *72.* Advances in Photometric 3D-Reconstruction (Jean-Denis Durou, Maurizio Falcone, Yvain Quéau etc.) (Z-Library)，来自[这里](https://zlibrary-asia.se/book/11251491/84e898?dsource=recommend)
++ *75.* Medical Image Processing, Reconstruction and Restoration Concepts and Methods (Jiri Jan) (Z-Library),来自[这里](https://zlibrary-asia.se/book/462039/14095c?dsource=recommend)
 
 # 🌈 优秀的github项目
 ## 🐳学习资料
