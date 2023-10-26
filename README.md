@@ -137,6 +137,9 @@
     + 找到这个是因为这个老师的课程：<https://fleuret.org/dlc/>
 + *73.* 模式识别-模式识别与机器学习（第四版） (张学工 汪小我) (Z-Library)，来自[这里](https://zlibrary-asia.se/book/25655112/61791f)
 + *74.* 模式识别【第三版】，来自[这里](https://github.com/chengguobiao/my-collect-pdf-books/blob/master/%E6%A8%A1%E5%BC%8F%E8%AF%86%E5%88%AB%E3%80%90%E7%AC%AC%E4%B8%89%E7%89%88%E3%80%91.pdf)
++ *78.* 神经网络原理【第二版】，来自[这里](https://zlibrary-asia.se/book/5663440/4efe96)
++ *79.* Perturbations, Optimization, and Statistics (Neural Information Processing series)，来自[这里](https://zlibrary-asia.se/book/16454852/bb731b)
+    + 其中第11章是：Adversarial Perturbations of Deep Neural Networks，有助于理解对抗生成样本
 
 ## ☁️计算机视觉
 + *19.* 计算机视觉-算法与应用（中文版），来自[这里](http://168.138.198.206/download/books/%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89%E7%AE%97%E6%B3%95%E4%B8%8E%E5%BA%94%E7%94%A8%E4%B8%AD%E6%96%87%E7%89%88.pdf)
@@ -163,6 +166,7 @@
     + 很可惜的一个大神写的，内容是这几本opencv里最丰富的，纪念大神
     + [《OpenCV3编程入门》书本配套源代码](https://github.com/QianMo/OpenCV3-Intro-Book-Src)
 + *66.* OpenCV算法精解：基于Python与C++ (张平) (Z-Library)
++ *79.* 学习OpenCV(中文版) ，就是所谓的`蝴蝶书`，来自[这里](https://zlibrary-asia.se/book/3629806/671848)
     
 ## ☁️医学影像重建
 + *70.* 3D Image Reconstruction for CT and PET A Practical Guide with Python (Daniele Panetta, Niccolo Camarlinghi) (Z-Library)，来自[这里](https://zlibrary-asia.se/book/11053927/a01032)
@@ -170,6 +174,7 @@
     + *76.* Medical Image Reconstruction From Analytical and Iterative Methods to Machine Learning (Gengsheng Lawrence Zeng) (Z-Library)，新的英语版本，可以对照着看，来自[这里](https://zlibrary-asia.se/book/25392777/d1c6c5)
 + *72.* Advances in Photometric 3D-Reconstruction (Jean-Denis Durou, Maurizio Falcone, Yvain Quéau etc.) (Z-Library)，来自[这里](https://zlibrary-asia.se/book/11251491/84e898?dsource=recommend)
 + *75.* Medical Image Processing, Reconstruction and Restoration Concepts and Methods (Jiri Jan) (Z-Library),来自[这里](https://zlibrary-asia.se/book/462039/14095c?dsource=recommend)
++ *77.* 医学影像的数字处理-黄力宇，来自[这里](http://www.wenqujingdian.com/Public/editor/attached/file/20180607/20180607192942_52236.pdf)，加载速度很慢。。
 
 # 🌈 优秀的github项目
 ## 🐳学习资料
