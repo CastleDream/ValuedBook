@@ -166,8 +166,35 @@
     + 很可惜的一个大神写的，内容是这几本opencv里最丰富的，纪念大神
     + [《OpenCV3编程入门》书本配套源代码](https://github.com/QianMo/OpenCV3-Intro-Book-Src)
 + *66.* OpenCV算法精解：基于Python与C++ (张平) (Z-Library)
-+ *79.* 学习OpenCV(中文版) ，就是所谓的`蝴蝶书`，来自[这里](https://zlibrary-asia.se/book/3629806/671848)
-    
++ *79.* 学习OpenCV(中文版) ，就是所谓的`蝴蝶书`，来自[这里](https://zlibrary-asia.se/book/3629806/671848)，是个扫描版
+    + *80.* Learning OpenCV(OReilly )，原版的英语，是电子版的，图像各种都更清晰一点，来自[这里](https://www.bogotobogo.com/cplusplus/files/OReilly%20Learning%20OpenCV.pdf)，2008年，571页
+    + *82.* Learning OpenCV 3 Computer vision in C++ with the OpenCV library (Adrian Kaehler, Gary Bradski) (Z-Library)，2017年，1018页，这个代码什么的都比较新，来自[这里](https://zh.zlibrary-asia.se/book/3306705/cd10c3?dsource=recommend)
++ *81.* Mastering Opencv 3 (Daniel Lélis Baggio, Shervin Emami etc.) (Z-Library)，来自[这里](https://zh.zlibrary-asia.se/book/3641908/e0d392?signAll=1&ts=0556)
+    + 配套的代码：<https://github.com/PacktPublishing/Mastering-OpenCV-4-Third-Edition>
++ *82.* OpenCV计算机视觉编程攻略.第3版，来自[这里](https://yun.weicheng.men/Book/OpenCV%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89%E7%BC%96%E7%A8%8B%E6%94%BB%E7%95%A5.%E7%AC%AC3%E7%89%88.pdf)
++ *83.* Computer Vision-Foundations and Applications_cs131-class-notes，斯坦福大学cs131n的课堂笔记，来自[这里](http://vision.stanford.edu/teaching/cs131_fall1718/files/cs131-class-notes.pdf)
++ 更多关于Opencv合集的书的翻译可以看：<https://cv.apachecn.org/cv-opencv3-qt5/01/>
+
+  
+## ☁️高性能计算
+算法方面的高性能其实包含两部分：
+1. 编码的高效性，主要体现在对C++这类高级语言应用的熟练程度和技巧
+2. 算法本身的高效性，比如科学计算里，可以用不同的方式进行矩阵运算
+
++ [C++高性能编程](https://baike.baidu.com/item/C%2B%2B高性能编程/62792601?fr=ge_ala)
++ *84.* 并行计算导论，来自[这里](http://staff.ustc.edu.cn/~wzhao7/c_index_files/main.files/parrel.pdf)，其中 **第2部分 并行算法设计与实现实例**里讲了一些`矩阵并行计算`的方法
++ *85.* 矩阵计算/数值线性代数，来自华东师范大学潘建瑜老师的课程，计算数学，不仅教线性代数矩阵计算，也关注其在计算机实现中的效率。
+    + 潘老师的主页：<https://math.ecnu.edu.cn/~jypan/>
+    + 教学活动：<https://math.ecnu.edu.cn/~jypan/Teaching.html>
+    + [矩阵计算/数值线性代数](https://math.ecnu.edu.cn/~jypan/Teaching/MatrixComp/index.html)课程里的
+        + [科学计算软件介绍](https://math.ecnu.edu.cn/~jypan/Teaching/MatrixComp/refs/A3_Soft.pdf)，C.2 矩阵运算的复杂度和C.3内容有价值
+        + [教材：矩阵计算讲义（2023.02, 配合课堂 slides 使用）](https://math.ecnu.edu.cn/~jypan/Teaching/MatrixComp/mc.pdf),P128有相应求解方法的运算量说明
+    + [C++ 语言程序设计](https://math.ecnu.edu.cn/~jypan/Teaching/Cpp/index.html)课程里的两个应用举例很有意思
+        + [矩阵乘积的快速算法-Strassen方法](https://math.ecnu.edu.cn/~jypan/Teaching/Cpp/Appendix_02_Strassen.pdf)，P4
+        + [Gauss 消去法求解线性方程组](https://math.ecnu.edu.cn/~jypan/Teaching/Cpp/Appendix_03_Gaussian.pdf)
+        + [Fast and stable matrix multiplication](https://math.ecnu.edu.cn/~jypan/Teaching/Cpp/refs/Talk_2006%20Fast%20and%20stable%20matrix%20multiplication.pdf)，这里就提到了Strassen和Winograd（cudnn的卷积计算加速）
+
+  
 ## ☁️医学影像重建
 + *70.* 3D Image Reconstruction for CT and PET A Practical Guide with Python (Daniele Panetta, Niccolo Camarlinghi) (Z-Library)，来自[这里](https://zlibrary-asia.se/book/11053927/a01032)
 + *71.* 医学图像重建入门 (曾更生)，来自[这里](https://zlibrary-asia.se/book/11448922/0997df)
