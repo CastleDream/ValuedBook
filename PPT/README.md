@@ -1,0 +1,2 @@
++ *1.* OpenCV Tutorial-Itseez，来自[这里-pdf版本](http://ros.fei.edu.br/roswiki/attachments/Events(2f)CoTeSys(2d)ROS(2d)School/OpenCV.pdf)，[这里-pptx版本](https://ppt-online.org/48830)。
++ OpenCV 3.0 - Latest news and the Roadmap，无法下载，PPT位于[这里](https://www.slideshare.net/EugeneKhvedchenya/opencv-30-latest-news-and-the-roadmap)
