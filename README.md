@@ -195,6 +195,11 @@
         + [Fast and stable matrix multiplication](https://math.ecnu.edu.cn/~jypan/Teaching/Cpp/refs/Talk_2006%20Fast%20and%20stable%20matrix%20multiplication.pdf)，这里就提到了Strassen和Winograd（cudnn的卷积计算加速）
 
   
+## ☁️PCL点云
++ *86.* 点云配准从入门到精通 (郭浩) (Z-Library)，来自[这里](https://zh.zlibrary-asia.se/book/25579115/105d3b)
++ *87.* 点云库PCL学习教程 (朱德海,郭浩,苏伟) (Z-Library)，来自[这里](https://zh.zlibrary-asia.se/book/17419141/db2094)
+
+
 ## ☁️医学影像重建
 + *70.* 3D Image Reconstruction for CT and PET A Practical Guide with Python (Daniele Panetta, Niccolo Camarlinghi) (Z-Library)，来自[这里](https://zlibrary-asia.se/book/11053927/a01032)
 + *71.* 医学图像重建入门 (曾更生)，来自[这里](https://zlibrary-asia.se/book/11448922/0997df)
