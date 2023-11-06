@@ -102,7 +102,7 @@
 
 ## 🍯 C/C++/Cmake相关
 + *25.* C++程序设计（谭浩强），来自[这里](https://zh.zlib.life/book/5757385/5d1271)
-+ *26.* C程序设计（第四版）谭浩强，来自[这里](https://github.com/yuebaii/books/blob/master/C%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%EF%BC%88%E7%AC%AC%E5%9B%9B%E7%89%88%EF%BC%89%E8%B0%AD%E6%B5%A9%E5%BC%BA.pdf)
++ *26.* C程序设计（第五版）谭浩强，来自[这里](https://zh.zlibrary-asia.se/book/24231352/b89cfb)
 + *27.* C++Primer(第四版清晰电子版)，来自[这里](https://github.com/yuebaii/books/blob/master/C%2B%2BPrimer(%E7%AC%AC%E5%9B%9B%E7%89%88%E6%B8%85%E6%99%B0%E7%94%B5%E5%AD%90%E7%89%88).pdf)
 + *28.* C Primer Plus 第6版 中文版，来自[这里](https://github.com/zouhuigang/book/issues/25)
 + *30.* C++语言程序设计 (郑莉，董渊，何江舟) ，来自[这里](https://zh.zlib.life/dl/17515830/89b037)
@@ -169,6 +169,7 @@
 + *79.* 学习OpenCV(中文版) ，就是所谓的`蝴蝶书`，来自[这里](https://zlibrary-asia.se/book/3629806/671848)，是个扫描版
     + *80.* Learning OpenCV(OReilly )，原版的英语，是电子版的，图像各种都更清晰一点，来自[这里](https://www.bogotobogo.com/cplusplus/files/OReilly%20Learning%20OpenCV.pdf)，2008年，571页
     + *82.* Learning OpenCV 3 Computer vision in C++ with the OpenCV library (Adrian Kaehler, Gary Bradski) (Z-Library)，2017年，1018页，这个代码什么的都比较新，来自[这里](https://zh.zlibrary-asia.se/book/3306705/cd10c3?dsource=recommend)
+    + *88.* 学习OpenCV3中文版本，来自[这里](https://zh.zlibrary-asia.se/book/22321548/f6a80d)，文件大于100MB，无法上传
 + *81.* Mastering Opencv 3 (Daniel Lélis Baggio, Shervin Emami etc.) (Z-Library)，来自[这里](https://zh.zlibrary-asia.se/book/3641908/e0d392?signAll=1&ts=0556)
     + 配套的代码：<https://github.com/PacktPublishing/Mastering-OpenCV-4-Third-Edition>
 + *82.* OpenCV计算机视觉编程攻略.第3版，来自[这里](https://yun.weicheng.men/Book/OpenCV%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89%E7%BC%96%E7%A8%8B%E6%94%BB%E7%95%A5.%E7%AC%AC3%E7%89%88.pdf)
@@ -195,6 +196,11 @@
         + [Fast and stable matrix multiplication](https://math.ecnu.edu.cn/~jypan/Teaching/Cpp/refs/Talk_2006%20Fast%20and%20stable%20matrix%20multiplication.pdf)，这里就提到了Strassen和Winograd（cudnn的卷积计算加速）
 
   
+## ☁️PCL点云
++ *86.* 点云配准从入门到精通 (郭浩) (Z-Library)，来自[这里](https://zh.zlibrary-asia.se/book/25579115/105d3b)
++ *87.* 点云库PCL学习教程 (朱德海,郭浩,苏伟) (Z-Library)，来自[这里](https://zh.zlibrary-asia.se/book/17419141/db2094)
+
+
 ## ☁️医学影像重建
 + *70.* 3D Image Reconstruction for CT and PET A Practical Guide with Python (Daniele Panetta, Niccolo Camarlinghi) (Z-Library)，来自[这里](https://zlibrary-asia.se/book/11053927/a01032)
 + *71.* 医学图像重建入门 (曾更生)，来自[这里](https://zlibrary-asia.se/book/11448922/0997df)
