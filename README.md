@@ -110,6 +110,7 @@
 + C++教学资源：点击[这里](https://cugwhp.github.io/OOPCPP/)，来自中国地质大学
 + *89.* 编译原理 第二版 Alfred V. Aho,Monica S.Lam, Ravi Sethi，来自[这里](https://zh.zlibrary-asia.se/book/5458196/e37554?dsource=recommend)
 + *90.* 编译原理_3版_陈意云_张昱，来自[这里](https://zh.zlibrary-asia.se/book/22894802/017796)
++ *91.* IBM-PC 汇编语言程序设计 PC 汇编语言程序设计 (沈美明 温冬婵 编著) (Z-Library)，来自[这里](https://zh.zlibrary-asia.se/book/22361796/c1bc98)
 
 ## 🍄医学ITK/VTK相关
 + *29.* 三维图像编程实验，来自[这里](http://www.wenqujingdian.com/Public/editor/attached/file/20180326/20180326135748_24581.pdf)
