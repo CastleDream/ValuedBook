@@ -2,7 +2,7 @@
   - [🍄高等数学](#高等数学)
   - [🍄离散数学(图论)](#离散数学图论)
   - [🍄线性代数](#线性代数)
-  - [🍄概率论（信息论）](#概率论信息论)
+  - [🍄概率论与数理统计（信息论）](#概率论与数理统计信息论)
   - [🍄数据结构](#数据结构)
   - [🍄数据库](#数据库)
   - [🍄操作系统](#操作系统)
@@ -66,12 +66,16 @@
 + *94.* 工程数学： 线性代数（第六版） (同济大学数学系) ，来自[Z-Library](https://zh.zlibrary-asia.se/book/22490242/59bbd3/%E5%B7%A5%E7%A8%8B%E6%95%B0%E5%AD%A6-%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%E7%AC%AC%E5%85%AD%E7%89%88.html?dsource=recommend)
 
 
-## 🍄概率论（信息论）
+## 🍄概率论与数理统计（信息论）
 + *12.* 茆诗松概率论pdf，来自[这里](https://yuxtech.club/2021/03/11/maoshisong/)
 + *32.* 概率论与数理统计理工类第5版(吴赣昌).pdf，找不到来源了，但是不好找
 + *53.* 信息论基础与编码, 来自[这里](http://www.wenqujingdian.com/Public/editor/attached/file/20180328/20180328081134_51602.pdf)
 + *54.*《信息论基础》（原书第2版）（美）Thomas M. Cover， Joy A. Thomas 著，阮吉寿，张华译——机械工业出版社，来自[这里](https://faculty.ustc.edu.cn/flowice/zh_CN/zdylm/679092)， *54_2*. 熵相对熵和互信息(PPT)是相同来源
 + *55.* 信息论与编码理论，来自[这里](https://github.com/yuyichao/cs-doc/blob/master/Communication/Information_Theory/%E4%BF%A1%E6%81%AF%E8%AE%BA%E4%B8%8E%E7%BC%96%E7%A0%81%E7%90%86%E8%AE%BA.pdf)
++ *95.* 应用概率统计基础及算法（于江生）， 来自[这里](https://github.com/it-ebooks-0/it-ebooks-2017-allinone/blob/master/%E5%BA%94%E7%94%A8%E6%A6%82%E7%8E%87%E7%BB%9F%E8%AE%A1%E5%9F%BA%E7%A1%80%E5%8F%8A%E7%AE%97%E6%B3%95%EF%BC%88%E4%BA%8E%E6%B1%9F%E7%94%9F%EF%BC%89.pdf)
++ *96.* 概率论与数理统计，来自[这里](https://icourse.club/uploads/files/d93f9616312cc3a593e1d401ac9dea8a20734a2b.pdf)
++ *97.* 程序员的数学2-概率统计，来自[这里](https://github.com/linghuam/boutique-books/blob/master/b01-数学/程序员的数学2-概率统计.pdf)
++ *98.* 概率论与数理统计(浙大四版), 来自[这里](https://github.com/xitongsys/ML/blob/master/books/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1(%E6%B5%99%E5%A4%A7%E5%9B%9B%E7%89%88).pdf)
 
 ## 🍄数据结构
 + *13.* 数据结构教程（第5版）——李春葆，来自[这里](https://fr.be1lib.org/book/16889574/25bef9)
