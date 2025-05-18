@@ -1,37 +1,39 @@
-- [🌈基础知识](#基础知识)
-  - [🍄高等数学](#高等数学)
-  - [🍄离散数学(图论)](#离散数学图论)
-  - [🍄线性代数](#线性代数)
-  - [🍄概率论与数理统计（信息论）](#概率论与数理统计信息论)
-  - [🍄数据结构](#数据结构)
-  - [🍄数据库](#数据库)
-  - [🍄操作系统](#操作系统)
-  - [🍄计算机网络](#计算机网络)
-  - [🍄算法](#算法)
-  - [🍄计算机组成原理](#计算机组成原理)
-  - [🍄计算机系统结构](#计算机系统结构)
-  - [🍄数字电路与逻辑设计](#数字电路与逻辑设计)
-  - [🍄王道408考研书籍](#王道408考研书籍)
-  - [🍄计算机思想](#计算机思想)
-  - [🍯 C/C++/Cmake相关/编译原理](#-cccmake相关编译原理)
-  - [🍄医学ITK/VTK相关](#医学itkvtk相关)
-  - [语音](#语音)
-- [🌈深度学习和计算机视觉](#深度学习和计算机视觉)
-  - [☁️深度学习和机器学习](#️深度学习和机器学习)
-  - [☁️计算机视觉](#️计算机视觉)
-  - [☁️高性能计算](#️高性能计算)
-  - [☁️PCL点云](#️pcl点云)
-  - [☁️医学影像重建](#️医学影像重建)
-- [🌈 优秀的github项目](#-优秀的github项目)
-  - [🐳学习资料](#学习资料)
-  - [🐳著名实验室](#著名实验室)
-  - [🐳社畜救赎](#社畜救赎)
-  - [🐳相关资源](#相关资源)
+- [1. 基础知识](#1-基础知识)
+  - [1.1 高等数学](#11-高等数学)
+  - [1.2 离散数学(图论)](#12-离散数学图论)
+  - [1.3 线性代数](#13-线性代数)
+  - [1.4 概率论与数理统计（信息论）](#14-概率论与数理统计信息论)
+  - [1.5 数据结构](#15-数据结构)
+  - [1.6 数据库](#16-数据库)
+  - [1.7 操作系统](#17-操作系统)
+  - [1.8 计算机网络](#18-计算机网络)
+  - [1.9 算法](#19-算法)
+  - [1.10 计算机组成原理](#110-计算机组成原理)
+  - [1.11 计算机系统结构](#111-计算机系统结构)
+  - [1.12 数字电路与逻辑设计](#112-数字电路与逻辑设计)
+  - [1.13 王道408考研书籍](#113-王道408考研书籍)
+- [2. 工作需求——C++，算法等](#2-工作需求c算法等)
+  - [2.1 程序编译链接](#21-程序编译链接)
+  - [2.2  C/C++/Cmake相关/编译原理](#22--cccmake相关编译原理)
+  - [2.3 医学ITK/VTK相关](#23-医学itkvtk相关)
+  - [2.4 语音](#24-语音)
+- [3. 深度学习和计算机视觉](#3-深度学习和计算机视觉)
+  - [3.1 深度学习和机器学习](#31-深度学习和机器学习)
+  - [3.2 计算机视觉](#32-计算机视觉)
+  - [3.3 高性能计算](#33-高性能计算)
+  - [3.4 PCL点云](#34-pcl点云)
+  - [3.5 医学影像重建](#35-医学影像重建)
+- [4. 优秀的github项目](#4-优秀的github项目)
+  - [4.1 学习资料](#41-学习资料)
+  - [4.2 著名实验室](#42-著名实验室)
+  - [4.3 社畜救赎](#43-社畜救赎)
+  - [4.4 相关资源](#44-相关资源)
+- [5. 面试/Leetcode](#5-面试leetcode)
 
-# 🌈基础知识
+# 1. 基础知识
 深度学习过程中涉及到的一些从前本科学习过的内容的电子书
 
-## 🍄高等数学
+## 1.1 高等数学
 + *1.* 高等数学-第六版-上下册-同济大学数学系，
   + 下载原始链接，点击[这里](http://ykphy.top/wp-content/uploads/2020/02/%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6%E7%AC%AC%E5%85%AD%E7%89%88.%E5%90%8C%E6%B5%8E%E5%A4%A7%E5%AD%A6%E6%95%B0%E5%AD%A6%E7%B3%BB.%E6%89%AB%E6%8F%8F%E7%89%88.pdf)
   + 扫描版，有完整书签，上下册在一个pdf文件中
@@ -41,7 +43,7 @@
   + *4.* 高等数学-同济第七版下册，来自[这里](http://archive.keyllo.com/J-%E6%95%99%E8%82%B2/3-%e5%a4%a7%e5%ad%a6/%e9%ab%98%e7%ad%89%e6%95%b0%e5%ad%a6/%e9%ab%98%e7%ad%89%e6%95%b0%e5%ad%a6-%e5%90%8c%e6%b5%8e%e5%a4%a7%e5%ad%a6%e7%ac%ac7%e7%89%88%e4%b8%8a%e4%b8%8b%e5%86%8c/%e9%ab%98%e7%ad%89%e6%95%b0%e5%ad%a6%20%e7%ac%ac7%e7%89%88%20%e4%b8%8b%e5%86%8c%20%e5%90%8c%e6%b5%8e%e5%a4%a7%e5%ad%a6.pdf)   **（！文件大于100MB，未上传。）**
   + *5.* 高等数学-同济第七版下册习题解析指南.，来自[这里](http://archive.keyllo.com/J-%E6%95%99%E8%82%B2/3-%e5%a4%a7%e5%ad%a6/%e9%ab%98%e7%ad%89%e6%95%b0%e5%ad%a6/%e9%ab%98%e7%ad%89%e6%95%b0%e5%ad%a6-%e5%90%8c%e6%b5%8e%e5%a4%a7%e5%ad%a6%e7%ac%ac7%e7%89%88%e4%b8%8a%e4%b8%8b%e5%86%8c/%e9%ab%98%e7%ad%89%e6%95%b0%e5%ad%a6-%e5%90%8c%e6%b5%8e%e7%ac%ac%e4%b8%83%e7%89%88%e4%b8%8b%e5%86%8c%e4%b9%a0%e9%a2%98%e8%a7%a3%e6%9e%90%e6%8c%87%e5%8d%97.pdf)
 
-## 🍄离散数学(图论)
+## 1.2 离散数学(图论)
 **离散数学**
 
 + *6.* 离散数学-杜忠复，点击[这里](http://chiataimakro.vicp.cc:8880/%E6%9D%82%E9%A1%B9/[%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6].%E6%9D%9C%E5%BF%A0%E5%A4%8D.%E6%96%87%E5%AD%97%E7%89%88.pdf)
@@ -53,7 +55,7 @@
 + *9.* 图论算法理论、实现及应用，来自[这里](https://github.com/ivito/cookbook/blob/master/%E7%AE%97%E6%B3%95/%E5%9B%BE%E8%AE%BA%E7%AE%97%E6%B3%95%E7%90%86%E8%AE%BA%E5%AE%9E%E7%8E%B0%E5%8F%8A%E5%BA%94%E7%94%A8.pdf)
 + *10.* 图论及其应用(第二版)(作者)徐俊明，来自[这里](https://github.com/hengfanz/franztao.File.io/blob/master/%E3%80%8A%E5%9B%BE%E8%AE%BA%E5%8F%8A%E5%85%B6%E5%BA%94%E7%94%A8(%E7%AC%AC%E4%BA%8C%E7%89%88)%E3%80%8B(%E4%BD%9C%E8%80%85)%E5%BE%90%E4%BF%8A%E6%98%8E%20%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E6%8A%80%E6%9C%AF%E5%A4%A7%E5%AD%A6%202004%E5%B9%B48%E6%9C%88%E7%AC%AC1%E7%89%88.pdf)
 
-## 🍄线性代数
+## 1.3 线性代数
 + *11.* 线性代数的几何意义——图解线性代数，来自[这里](http://www.ycxy.com/UploadFiles/ce/tzzy/2015/2015%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%E7%9A%84%E5%87%A0%E4%BD%95%E6%84%8F%E4%B9%892.pdf)
 + http://immersivemath.com/ila/learnmore.html
   + 网页书，gif图示，虽然是英语，但是其实更加靠近论文/算法表示
@@ -66,7 +68,7 @@
 + *94.* 工程数学： 线性代数（第六版） (同济大学数学系) ，来自[Z-Library](https://zh.zlibrary-asia.se/book/22490242/59bbd3/%E5%B7%A5%E7%A8%8B%E6%95%B0%E5%AD%A6-%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%E7%AC%AC%E5%85%AD%E7%89%88.html?dsource=recommend)
 
 
-## 🍄概率论与数理统计（信息论）
+## 1.4 概率论与数理统计（信息论）
 + *12.* 茆诗松概率论pdf，来自[这里](https://yuxtech.club/2021/03/11/maoshisong/)
 + *32.* 概率论与数理统计理工类第5版(吴赣昌).pdf，找不到来源了，但是不好找
 + *53.* 信息论基础与编码, 来自[这里](http://www.wenqujingdian.com/Public/editor/attached/file/20180328/20180328081134_51602.pdf)
@@ -77,11 +79,11 @@
 + *97.* 程序员的数学2-概率统计，来自[这里](https://github.com/linghuam/boutique-books/blob/master/b01-数学/程序员的数学2-概率统计.pdf)
 + *98.* 概率论与数理统计(浙大四版), 来自[这里](https://github.com/xitongsys/ML/blob/master/books/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1(%E6%B5%99%E5%A4%A7%E5%9B%9B%E7%89%88).pdf)
 
-## 🍄数据结构
+## 1.5 数据结构
 + *13.* 数据结构教程（第5版）——李春葆，来自[这里](https://fr.be1lib.org/book/16889574/25bef9)
 + *14.* 数据结构与算法（Java 描述）——邓俊辉，来自[这里](https://dsa.cs.tsinghua.edu.cn/~deng/ds/dsaj/dsaj.pdf)
 
-## 🍄数据库
+## 1.6 数据库
 + *15.* 数据库系统概论-第5版_完整版（王珊，萨师煊）,来自
    链接: https://pan.baidu.com/s/1fxoT10rx2Hdz2iMcdaJ2CQ 提取码: swgc
    
@@ -90,33 +92,33 @@
    来源：简书
    著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
 
-## 🍄操作系统
+## 1.7 操作系统
 + *36.* 计算机操作系统(第3版)——汤子瀛，来自这个网页：[操作系统A 0529702B](https://lib-hfut.github.io/lib-hfut/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9FA_0529702B/)，对应的github地址是：[lib-hfut 贵校课程资料民间整理](https://github.com/lib-hfut/lib-hfut)
 + *37.* 计算机操作系统（第4版）——汤小丹，来源同上
 + *38.* 操作系统教程（第3版）——孙钟秀，来自[这里](http://www.huhst.edu.cn/__local/B/03/85/3C9EA5E8903526CAB5D1318E995_F00C7471_2B6931.pdf)
 + *39.* 图解系统-小林coding-v1.0，这里放的是epub格式，可以去公众号下载，有pdf版本，“微信搜索「小林coding」”，在公众号里发送”系统“即可。
 
-## 🍄计算机网络
+## 1.8 计算机网络
 + *52.* 计算机网络（第7版）谢希仁，来自[这里](https://www.elias.ltd/usr/local/etc/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%EF%BC%88%E7%AC%AC7%E7%89%88%EF%BC%89%E8%B0%A2%E5%B8%8C%E4%BB%81.pdf)
 
-## 🍄算法
+## 1.9 算法
 + *16.* 算法 第4版.pdf（86.1MB），来自[这里](https://github.com/learsea/algorithm/blob/master)
 + *17.* 算法（第四版）,来自[这里](https://www.bilibili.com/read/cv13003957)。
     + 链接：https://url03.ctfile.com/f/24333903-511477348-238a2b 
     + 访问密码：5831
 
-## 🍄计算机组成原理
+## 1.10 计算机组成原理
 + *18.* 计算机组成原理-唐朔飞 ，来自[这里](https://fr.be1lib.org/book/5469110/601da3?dsource=recommend)
 
-## 🍄计算机系统结构
+## 1.11 计算机系统结构
 + *56.* 计算机系统结构，清华大学，郑纬民，来自[这里](https://eol.sicau.edu.cn/TransferFile?file=MzA0MzUyXDEyNzcxXzMwMDA2OTA1OF8yMDEzMTIzMDEzMjE0NV8yOTE2MC5wZGY1&name=vMbL47v6z7XNs73hubkucGRm0)
 + *57.* 计算机系统结构（第2版）.rar，没有pdf，但是有ppt课件，其实我最想要的是[这本](http://www.tup.tsinghua.edu.cn/bookscenter/book_00290004.html#)，这本是我本科上课用的书，但是找不着
 + IEEE754单精度浮点数，[IEEE754浮点数标准](https://blog.csdn.net/MaTF_/article/details/124842807)
 
-## 🍄数字电路与逻辑设计
+## 1.12 数字电路与逻辑设计
 + 没有找到pdf资源，但是找到了出版社的电子资源（课件），链接位于[这里](http://www.tup.tsinghua.edu.cn/booksCenter/book_05699302.html)
 
-## 🍄王道408考研书籍
+## 1.13 王道408考研书籍
 都是扫描版，所以文件很大，无法上传到github上去。
 
 来源在这里： 感谢知乎博主-[2022考研王道天勤PDF（数据结构、操作系统、计算机网络、计算机组成原理）](https://zhuanlan.zhihu.com/p/404966437)
@@ -134,11 +136,11 @@
 我已经保存到百度云盘了，如果失效，可以提个issue，我自己新po一个链接
 
 
-
-## 🍄计算机思想
+# 2. 工作需求——C++，算法等
+## 2.1 程序编译链接
 + *24.* 程序员的自我修养--链接、装载与库
 
-## 🍯 C/C++/Cmake相关/编译原理
+## 2.2  C/C++/Cmake相关/编译原理
 + *25.* C++程序设计（谭浩强），来自[这里](https://zh.zlib.life/book/5757385/5d1271)
 + *26.* C程序设计（第五版）谭浩强，来自[这里](https://zh.zlibrary-asia.se/book/24231352/b89cfb)
 + *27.* C++Primer(第四版清晰电子版)，来自[这里](https://github.com/yuebaii/books/blob/master/C%2B%2BPrimer(%E7%AC%AC%E5%9B%9B%E7%89%88%E6%B8%85%E6%99%B0%E7%94%B5%E5%AD%90%E7%89%88).pdf)
@@ -150,7 +152,7 @@
 + *90.* 编译原理_3版_陈意云_张昱，来自[这里](https://zh.zlibrary-asia.se/book/22894802/017796)
 + *91.* IBM-PC 汇编语言程序设计 PC 汇编语言程序设计 (沈美明 温冬婵 编著) (Z-Library)，来自[这里](https://zh.zlibrary-asia.se/book/22361796/c1bc98)
 
-## 🍄医学ITK/VTK相关
+## 2.3 医学ITK/VTK相关
 + *29.* 三维图像编程实验，来自[这里](http://www.wenqujingdian.com/Public/editor/attached/file/20180326/20180326135748_24581.pdf)
 + *67.* 医学图像编程技术 (周振环, 伍云智, 赵明) (Z-Library)，来自[这里](https://zlibrary-asia.se/book/21272673/b00ecf?dsource=recommend)
   + 68. 周振环_医学图像分割与配准上册
@@ -159,11 +161,12 @@
   + 另外，这个书很老了，68和69这两本书是2007年出版的，从2005年开始做这个基金项目的，其实就是对ITK2.4版本的`ITKSoftwareGuide.pdf`上下两册进行的翻译，那会机器翻译还不流行，但是可能由于时间比较早，那会多态和继承的概念不太流行，所以有些翻译就很生硬
   + 67这本书是2010年出版的，说的是ITK和VTK一起用
 
-## 语音
+## 2.4 语音
 + *62*. 解析深度学习_语音识别实践,来自[这里](https://github.com/gemengtju/Tutorial_Speech_Signal_Processing/blob/master/book/%E4%BF%9E%E6%A0%8B%E9%82%93%E5%8A%9B%20%E8%A7%A3%E6%9E%90%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%20%E8%AF%AD%E9%9F%B3%E8%AF%86%E5%88%AB%E5%AE%9E%E8%B7%B5.pdf)
     + 也有另一个扫描版的，但是100多MB，但是比上面这个清晰，在[这里](https://www.cnblogs.com/qniguoym/p/8532256.html)
-# 🌈深度学习和计算机视觉
-## ☁️深度学习和机器学习
+  
+# 3. 深度学习和计算机视觉
+## 3.1 深度学习和机器学习
 + *22.* 深度学习与计算机视觉——算法原理、框架应用与代码实现
 + *23.* 花书中文版，来自[这里](https://github.com/exacity/deeplearningbook-chinese)
     + 原版英语在线电子版：<https://www.deeplearningbook.org/>
@@ -184,7 +187,7 @@
 + *79.* Perturbations, Optimization, and Statistics (Neural Information Processing series)，来自[这里](https://zlibrary-asia.se/book/16454852/bb731b)
     + 其中第11章是：Adversarial Perturbations of Deep Neural Networks，有助于理解对抗生成样本
 
-## ☁️计算机视觉
+## 3.2 计算机视觉
 + *19.* 计算机视觉-算法与应用（中文版），来自[这里](http://168.138.198.206/download/books/%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89%E7%AE%97%E6%B3%95%E4%B8%8E%E5%BA%94%E7%94%A8%E4%B8%AD%E6%96%87%E7%89%88.pdf)
 + *20.* Computer Vision:Algorithms and Applications，来自[这里](https://szeliski.org/Book/drafts/SzeliskiBook_20100903_draft.pdf)
 + *21.* 数字图像处理-第三版-冈萨雷斯，来自[这里](https://github.com/Jonezhen/CSBook/raw/master/图像处理/数字图像处理_第三版_中_冈萨雷斯.pdf)
@@ -220,7 +223,7 @@
 + 更多关于Opencv合集的书的翻译可以看：<https://cv.apachecn.org/cv-opencv3-qt5/01/>
 
   
-## ☁️高性能计算
+## 3.3 高性能计算
 算法方面的高性能其实包含两部分：
 1. 编码的高效性，主要体现在对C++这类高级语言应用的熟练程度和技巧
 2. 算法本身的高效性，比如科学计算里，可以用不同的方式进行矩阵运算
@@ -239,12 +242,12 @@
         + [Fast and stable matrix multiplication](https://math.ecnu.edu.cn/~jypan/Teaching/Cpp/refs/Talk_2006%20Fast%20and%20stable%20matrix%20multiplication.pdf)，这里就提到了Strassen和Winograd（cudnn的卷积计算加速）
 
   
-## ☁️PCL点云
+## 3.4 PCL点云
 + *86.* 点云配准从入门到精通 (郭浩) (Z-Library)，来自[这里](https://zh.zlibrary-asia.se/book/25579115/105d3b)
 + *87.* 点云库PCL学习教程 (朱德海,郭浩,苏伟) (Z-Library)，来自[这里](https://zh.zlibrary-asia.se/book/17419141/db2094)
 
 
-## ☁️医学影像重建
+## 3.5 医学影像重建
 + *70.* 3D Image Reconstruction for CT and PET A Practical Guide with Python (Daniele Panetta, Niccolo Camarlinghi) (Z-Library)，来自[这里](https://zlibrary-asia.se/book/11053927/a01032)
 + *71.* 医学图像重建入门 (曾更生)，来自[这里](https://zlibrary-asia.se/book/11448922/0997df)
     + *76.* Medical Image Reconstruction From Analytical and Iterative Methods to Machine Learning (Gengsheng Lawrence Zeng) (Z-Library)，新的英语版本，可以对照着看，来自[这里](https://zlibrary-asia.se/book/25392777/d1c6c5)
@@ -252,25 +255,25 @@
 + *75.* Medical Image Processing, Reconstruction and Restoration Concepts and Methods (Jiri Jan) (Z-Library),来自[这里](https://zlibrary-asia.se/book/462039/14095c?dsource=recommend)
 + *77.* 医学影像的数字处理-黄力宇，来自[这里](http://www.wenqujingdian.com/Public/editor/attached/file/20180607/20180607192942_52236.pdf)，加载速度很慢。。
 
-# 🌈 优秀的github项目
-## 🐳学习资料
+# 4. 优秀的github项目
+## 4.1 学习资料
 + 花书的中文翻译：https://github.com/exacity/deeplearningbook-chinese
 + 完备的AI学习路线：https://github.com/JackBlogs/learningai/wiki/%E5%AE%8C%E5%A4%87%E7%9A%84AI%E5%AD%A6%E4%B9%A0%E8%B7%AF%E7%BA%BF
   + 或者：https://github.com/JackBlogs/learningai
 + 计算机考研408资料整理：https://github.com/CodePanda66/CSPostgraduate-408
 + 深度学习之PyTorch实战计算机视觉**配套代码**：https://github.com/JaimeTang/book-code
 +  深度学习与计算机视觉**配套代码**：https://github.com/frombeijingwithlove/dlcv_for_beginners
-## 🐳著名实验室
+## 4.2 著名实验室
 + https://github.com/orgs/saturn-lab
 
 
-## 🐳社畜救赎 
+## 4.3 社畜救赎 
 + 程序员考公指南：https://github.com/coder2gwy/coder2gwy
 + 996ICU：https://github.com/996icu/996.ICU
 + 955.WLB：https://github.com/formulahendry/955.WLB
 
 
-## 🐳相关资源
+## 4.4 相关资源
 + https://github.com/dandanJing/computer/tree/master/books
 + https://github.com/RongleXie/java-books-collections
 + https://github.com/lunnersword/algorithm
@@ -279,3 +282,6 @@
 + https://github.com/Jarvis03
 
 
+# 5. 面试/Leetcode
++ *97*. 程序员面试金典.第5版，来自这里——[程序员面试金典.第5版.pdf](https://yun.weicheng.men/Book/%E7%A8%8B%E5%BA%8F%E5%91%98%E9%9D%A2%E8%AF%95%E9%87%91%E5%85%B8.%E7%AC%AC5%E7%89%88.pdf)
++ *98*. 程序员面试金典（第6版） ([美]盖尔·拉克曼·麦克道尔) (Z-Library)，来自这里——[程序员面试金典（第6版）](https://zh.z-library.sk/book/17447040/e6fa38/%E7%A8%8B%E5%BA%8F%E5%91%98%E9%9D%A2%E8%AF%95%E9%87%91%E5%85%B8%E7%AC%AC6%E7%89%88.html)
