@@ -29,6 +29,7 @@
   - [4.3 社畜救赎](#43-社畜救赎)
   - [4.4 相关资源](#44-相关资源)
 - [5. 面试/Leetcode](#5-面试leetcode)
+- [6. 其他科学](#6-其他科学)
 
 # 1. 基础知识
 深度学习过程中涉及到的一些从前本科学习过的内容的电子书
@@ -287,3 +288,13 @@
 # 5. 面试/Leetcode
 + *97*. 程序员面试金典.第5版，来自这里——[程序员面试金典.第5版.pdf](https://yun.weicheng.men/Book/%E7%A8%8B%E5%BA%8F%E5%91%98%E9%9D%A2%E8%AF%95%E9%87%91%E5%85%B8.%E7%AC%AC5%E7%89%88.pdf)
 + *98*. 程序员面试金典（第6版） ([美]盖尔·拉克曼·麦克道尔) (Z-Library)，来自这里——[程序员面试金典（第6版）](https://zh.z-library.sk/book/17447040/e6fa38/%E7%A8%8B%E5%BA%8F%E5%91%98%E9%9D%A2%E8%AF%95%E9%87%91%E5%85%B8%E7%AC%AC6%E7%89%88.html)
+
+
+# 6. 其他科学
+
+**费恩曼物理学讲义**
++ *101.* 费恩曼物理学讲义（第1卷）：新千年版 (R.P.Feynman) (Z-Library), 来自[这里](https://zh.z-library.sk/book/3422895/ed56ed/%E8%B4%B9%E6%81%A9%E6%9B%BC%E7%89%A9%E7%90%86%E5%AD%A6%E8%AE%B2%E4%B9%89%E7%AC%AC1%E5%8D%B7%E6%96%B0%E5%8D%83%E5%B9%B4%E7%89%88.html)
++ *102.* 费恩曼物理学讲义（第2卷）：新千年版 (R.P.Feynman) (Z-Library), 来自[这里](https://zh.z-library.sk/book/3422898/278585/%E8%B4%B9%E6%81%A9%E6%9B%BC%E7%89%A9%E7%90%86%E5%AD%A6%E8%AE%B2%E4%B9%89%E7%AC%AC2%E5%8D%B7%E6%96%B0%E5%8D%83%E5%B9%B4%E7%89%88.html)
++ *103.* 费恩曼物理学讲义（第3卷）：新千年版 (R.P.Feynman) (Z-Library), 来自[这里](https://zh.z-library.sk/book/3422902/0a5fb5/%E8%B4%B9%E6%81%A9%E6%9B%BC%E7%89%A9%E7%90%86%E5%AD%A6%E8%AE%B2%E4%B9%89%E7%AC%AC3%E5%8D%B7%E6%96%B0%E5%8D%83%E5%B9%B4%E7%89%88.html?dsource=recommend)
++ *101.* Feynman Lectures on Physics.pdf, 来自[这里](https://github.com/RockLakeGrass/Feynman-Lectures-Latex)
++ [《费恩曼物理讲义》在线版](https://kexue.fm/archives/2231)
