@@ -113,6 +113,7 @@
 
 ## 1.11 计算机系统结构
 + *56.* 计算机系统结构，清华大学，郑纬民，来自[这里](https://eol.sicau.edu.cn/TransferFile?file=MzA0MzUyXDEyNzcxXzMwMDA2OTA1OF8yMDEzMTIzMDEzMjE0NV8yOTE2MC5wZGY1&name=vMbL47v6z7XNs73hubkucGRm0)
++ *56.* 计算机系统结构（第二版） (郑纬民，汤志中) (Z-Library).pdf
 + *57.* 计算机系统结构（第2版）.rar，没有pdf，但是有ppt课件，其实我最想要的是[这本](http://www.tup.tsinghua.edu.cn/bookscenter/book_00290004.html#)，这本是我本科上课用的书，但是找不着
 + IEEE754单精度浮点数，[IEEE754浮点数标准](https://blog.csdn.net/MaTF_/article/details/124842807)
 
